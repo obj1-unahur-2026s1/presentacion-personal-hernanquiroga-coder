@@ -9,5 +9,5 @@
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Vivo en Moron, naci en Once.
+- Me gusta jugar video juegos
