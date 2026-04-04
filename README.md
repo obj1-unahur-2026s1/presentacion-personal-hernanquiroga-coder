@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es Hernan Quiroga
+- Vivo en Bs. As.
 
 
 ### Otra Información
